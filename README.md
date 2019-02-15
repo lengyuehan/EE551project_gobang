@@ -1,5 +1,7 @@
-# EE551project_gobang
-###Proposal
+### Introduction 
+This is an individual project for EE551 python. #EE551project_gobang
+
+### Proposal
 This project aims to implement the Gobang game.
 It is one of the competitive games of the World Intellectual Games 
 as a purely strategic chess game played by two players. 
@@ -10,7 +12,7 @@ The first one who form the line of 5 chess pieces wins.
 This project would offer two game modes, person versus person and person 
 versus machine.
 
-###Features
+### Features
 * The chessboard is displayed in the form of a grid in the window.
 * For the person versus person mode, you can only put one piece on the 
 board at a time with one click. The first click is Black, then the Black and White take 
@@ -24,14 +26,14 @@ displayed in the window.
 * When the game result is confirmed, the chess board would be cleared and the new
 game would start.
 
-###Logic 
+### Logic 
 There needs a logic to determine whether one side to win or lose.
 After each click, it would count the horizontal and vertical 
 axis and the two bevel from the click position respectively to see if the number of pieces of 
 the same color reaches 5 or more, judge the winner and the game is over.
 Every time when the piece has been arranged, it is necessary to run the logic to judge the win or lose.
 
-###TODO
+### TODO
 * Design one 16*16 chess board.
 * Design two color chess piece, black and white.
 * Design the game interface to select two game modes.
