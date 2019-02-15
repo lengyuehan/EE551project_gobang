@@ -1,4 +1,4 @@
-#EE551project_gobang
+# EE551project_gobang
 ###Proposal
 This project aims to implement the Gobang game.
 It is one of the competitive games of the World Intellectual Games 
