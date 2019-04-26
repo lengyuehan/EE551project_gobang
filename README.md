@@ -45,4 +45,4 @@ Every time when the piece has been arranged, it is necessary to run the logic to
 * Set the function restart when the 'Restart' button has been clicked.
 * Complete the function restart when the game result has been confirmed.
 * Create the individual window for this game.
-* Record a video on screen to demonstrate how this program(Gobang game) work as the test.
+* Record a video on screen to demonstrate how this program (Gobang game) work as the test.
